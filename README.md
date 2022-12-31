@@ -17,7 +17,7 @@ He creado diversos proyectos personales para desempeñarme como desarrollador in
 
 # Snake Re-imaginated
 
-Actualmente me encunetro trabajando en un videojuego personal que pienso publicar a futuro para dispositivos móviles.
+Actualmente me encuentro trabajando en un videojuego personal que pienso publicar a futuro para dispositivos móviles.
 
 ![](./Snake%20animation.gif)
 
