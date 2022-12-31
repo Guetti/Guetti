@@ -1,4 +1,4 @@
-# Saludos Cordiales
+# Saludos Cordiales 👋
 
 ### Desarrollador independiente de videojuegos y aplicaciones
 
@@ -15,6 +15,15 @@ He creado diversos proyectos personales para desempeñarme como desarrollador in
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
 
+# Snake Re-imaginated
+
+Actualmente me encunetro trabajando en un videojuego personal que pienso publicar a futuro para dispositivos móviles.
+
+![](./Snake%20animation.gif)
+
+Se trata del clasico juego de la serpiente pero reimaginado con dificultad incrementable y retos aún mayores.
+
+Pronto tendré noticias.
 
 
 
