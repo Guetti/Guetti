@@ -1,6 +1,6 @@
 # Saludos Cordiales 👋
 
-### Desarrollador independiente de videojuegos y aplicaciones
+### Desarrollador independiente freelance de videojuegos y aplicaciones
 
 
 Soy estudiante de informática desde hace 4 años aprendiendo sobre desarrollo de videojuegos y aplicaciones.
