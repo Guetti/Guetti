@@ -3,7 +3,7 @@
 ### Desarrollador independiente freelance de videojuegos y aplicaciones
 
 
-Soy estudiante de informática desde hace 4 años aprendiendo sobre desarrollo de videojuegos y aplicaciones.
+Soy estudiante de informática desde hace 5 años aprendiendo sobre desarrollo de videojuegos y aplicaciones.
 
 He creado diversos proyectos personales para desempeñarme como desarrollador indie, tales como "Unleash Fantasy" y "Snake" que son mis 2 grandes orgullos.
 
@@ -14,16 +14,14 @@ He creado diversos proyectos personales para desempeñarme como desarrollador in
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+![Flutter](https://img.shields.io/badge/%20Flutter-518FD1?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 # Snake Re-imaginated
 
-Actualmente me encuentro trabajando en un videojuego personal que pienso publicar a futuro para dispositivos móviles.
+Actualmente me encuentro trabajando en el desarrollo de aplicaciones en Flutter y Dart.
 
 ![](./Snake%20animation.gif)
-
-Se trata del clasico juego de la serpiente pero reimaginado con dificultad incrementable y retos aún mayores.
-
-Pronto tendré noticias.
 
 
 
