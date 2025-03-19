@@ -3,7 +3,7 @@
 ### Desarrollador independiente freelance de videojuegos y aplicaciones
 
 
-Soy estudiante de informática desde hace 5 años aprendiendo sobre desarrollo de videojuegos y aplicaciones.
+Ingeniero en Computación e Informática desde hace 2 años con experiencia en todo y dominio en nada
 
 He creado diversos proyectos personales para desempeñarme como desarrollador indie, tales como "Unleash Fantasy" y "Snake" que son mis 2 grandes orgullos.
 
@@ -19,7 +19,7 @@ He creado diversos proyectos personales para desempeñarme como desarrollador in
 
 # Snake Re-imaginated
 
-Actualmente me encuentro trabajando en el desarrollo de aplicaciones en Flutter y Dart.
+Actualmente me encuentro estudiando Next.js
 
 ![](./Snake%20animation.gif)
 
