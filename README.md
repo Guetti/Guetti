@@ -1,10 +1,10 @@
-# Guetti Dev
+# Guetti Dev 🧑‍💻
 
-### Ingeniero en Computación e Informática, Desarrollador y Programador Full Stack de Antofagasta, Chile.
+### Ingeniero en Computación e Informática, Desarrollador y Programador Full Stack de Tocopilla, Chile.
 
 Soy un apasionado por la programación y el desarrollo de software. Me encanta aprender nuevas tecnologías y enfrentar desafíos en el mundo del desarrollo. Siempre estoy buscando mejorar mis habilidades y contribuir a proyectos interesantes.
 
-## Habilidades:
+## 🛹 Habilidades:
 
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
@@ -23,6 +23,7 @@ Soy un apasionado por la programación y el desarrollo de software. Me encanta a
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5C00?style=for-the-badge&logo=astro&logoColor=white)
 
-## Insignias:
+## 🏆 Insignias:
 
 ![Introduction to Cybersecurity](/introduction-to-cybersecurity.png)
+
